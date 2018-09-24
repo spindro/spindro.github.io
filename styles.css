@@ -116,14 +116,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: #1D252D;
+  color: #406fef;
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: #1D252D;
+  color: #406fef;
 }
 
 img,
@@ -305,7 +305,7 @@ small,
 }
 
 .form-control:focus {
-  border-color: #1D252D;
+  border-color: #406fef;
   box-shadow: 0 0 0 .2rem #1D252D;
 }
 
@@ -519,7 +519,7 @@ a[data-fancybox] img {
 .featurette-icon {
   display: block;
   width: 100%;
-  color: #1D252D;
+  color: #406fef;
   font-size: 3rem;
   text-align: center;
 }
@@ -736,7 +736,7 @@ article .article-metadata {
 }
 
 .article-metadata a:hover {
-  color: #1D252D;
+  color: #406fef;
 }
 
 .middot-divider {
@@ -1118,13 +1118,13 @@ a.badge:hover {
  **************************************************/
 
 .btn-primary {
-  border-color: #1D252D;
-  background: #1D252D;
+  border-color: #406fef;
+  background: #406fef;
 }
 
 .btn-outline-primary {
-  border-color: #1D252D;
-  color: #1D252D;
+  border-color: #406fef;
+  color: #406fef;
 }
 
 .btn-primary:hover,
@@ -1132,7 +1132,7 @@ a.badge:hover {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: #1D252D;
+  background: #406fef;
 }
 
 .btn-outline-light:hover,
@@ -1145,14 +1145,14 @@ a.badge:hover {
 .btn-outline-primary:not(:disabled):not(.disabled):active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: #1D252D;
-  border-color: #1D252D;
+  background-color: #406fef;
+  border-color: #406fef;
 }
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #1D252D;
-  border-color: #1D252D;
+  background-color: #406fef;
+  border-color: #406fef;
 }
 
 /*************************************************
@@ -1236,14 +1236,14 @@ nav#navbar-main li.nav-item {
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link:hover {
-  color: #747474;
+  color: #406fef;
   background-color: transparent;
 }
 
 .navbar-light .navbar-nav>li.nav-item>a.active,
 .navbar-light .navbar-nav>li.nav-item>a.active:focus,
 .navbar-light .navbar-nav>li.nav-item>a.active:hover {
-  color: #747474;
+  color: #406fef;
   font-weight: 700;
   background-color: transparent !important; /* Override Bootstrap. */
 }
@@ -1280,7 +1280,7 @@ nav#navbar-main li.nav-item {
 
 .dropdown-menu>li>a:focus,
 .dropdown-menu>li>a:hover {
-  color: #747474;
+  color: #406fef;
   text-decoration: none;
   background-color: #ffffff;
 }
@@ -1290,7 +1290,7 @@ nav#navbar-main li.nav-item {
 .dropdown-menu > .active:hover {
   color: #ffffff;
   text-decoration: none;
-  background-color: #747474;
+  background-color: #406fef;
   outline: 0;
 }
 
@@ -1381,7 +1381,7 @@ nav#navbar-main li.nav-item {
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active,
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:focus,
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:hover {
-    color: #747474;
+    color: #406fef;
     background-color: transparent;
   }
 
@@ -1556,7 +1556,7 @@ div.alert a:hover {
 }
 
 .docs-search .form-control:focus {
-  border-color: #1D252D;
+  border-color: #406fef;
   box-shadow: 0 0 0 3px #1D252D;
 }
 
@@ -1607,7 +1607,7 @@ div.alert a:hover {
 .docs-sidebar .nav>.active:hover>a,
 .docs-sidebar .nav>.active>a {
   font-weight: bold;
-  color: #1D252D;
+  color: #406fef;
   background-color: transparent;
 }
 
@@ -1714,7 +1714,7 @@ div.alert a:hover {
 }
 
 #TableOfContents li a:hover {
-  color: #1D252D;
+  color: #406fef;
   text-decoration: none;
 }
 
@@ -1727,7 +1727,7 @@ div.alert a:hover {
 }
 
 .anchorjs-link:hover {
-  color: #1D252D;
+  color: #406fef;
   text-decoration: none;
 }
 
@@ -1746,7 +1746,7 @@ body.dark,
 
 .dark .form-control:focus {
   background-color: rgb(68, 71, 90);
-  border-color: #1D252D;
+  border-color: #406fef;
   box-shadow: 0 0 0 .2rem #1D252D;
 }
 
@@ -1779,7 +1779,7 @@ body.dark,
 }
 
 .dark ul.share li a {
-  background-color: #1D252D;
+  background-color: #406fef;
 }
 
 .dark table table {
@@ -1833,7 +1833,7 @@ body.dark,
 }
 
 .dark .card h4 a {
-  color: #1D252D;
+  color: #406fef;
   border-bottom: solid 1px transparent;
 }
 
