@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://spindro.github.io/post/plvs/</loc>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://spindro.github.io/publication/plvs/</loc>
       <lastmod>2018-09-19T00:00:00+02:00</lastmod>
     </url>
@@ -46,7 +54,7 @@
     <url>
     
       <loc>https://spindro.github.io/tags/3d-reconstruction/</loc>
-      <lastmod>2018-09-19T00:00:00+02:00</lastmod>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -55,16 +63,7 @@
     <url>
     
       <loc>https://spindro.github.io/tags/augmented-reality/</loc>
-      <lastmod>2018-09-19T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://spindro.github.io/tags/blog/</loc>
-      <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -73,6 +72,15 @@
     <url>
     
       <loc>https://spindro.github.io/categories/blog/</loc>
+      <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://spindro.github.io/tags/blog/</loc>
       <lastmod>2018-09-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -91,16 +99,7 @@
     <url>
     
       <loc>https://spindro.github.io/tags/computer-vision/</loc>
-      <lastmod>2018-09-19T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://spindro.github.io/tags/eu-project/</loc>
-      <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -117,8 +116,17 @@
     
     <url>
     
+      <loc>https://spindro.github.io/tags/eu-project/</loc>
+      <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://spindro.github.io/tags/image-processig/</loc>
-      <lastmod>2018-09-19T00:00:00+02:00</lastmod>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -136,7 +144,7 @@
     <url>
     
       <loc>https://spindro.github.io/tags/mapping/</loc>
-      <lastmod>2018-09-19T00:00:00+02:00</lastmod>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -145,7 +153,16 @@
     <url>
     
       <loc>https://spindro.github.io/tags/open-source/</loc>
-      <lastmod>2018-09-19T00:00:00+02:00</lastmod>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://spindro.github.io/categories/plvs/</loc>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -154,7 +171,7 @@
     <url>
     
       <loc>https://spindro.github.io/tags/perception/</loc>
-      <lastmod>2018-09-19T00:00:00+02:00</lastmod>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -172,16 +189,7 @@
     <url>
     
       <loc>https://spindro.github.io/tags/robotics/</loc>
-      <lastmod>2018-09-19T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://spindro.github.io/tags/robots/</loc>
-      <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -198,16 +206,7 @@
     
     <url>
     
-      <loc>https://spindro.github.io/tags/slam/</loc>
-      <lastmod>2018-09-19T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://spindro.github.io/categories/slam/</loc>
+      <loc>https://spindro.github.io/tags/robots/</loc>
       <lastmod>2018-09-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -216,8 +215,8 @@
     
     <url>
     
-      <loc>https://spindro.github.io/tags/sensors/</loc>
-      <lastmod>2018-09-19T00:00:00+02:00</lastmod>
+      <loc>https://spindro.github.io/categories/slam/</loc>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -225,8 +224,17 @@
     
     <url>
     
-      <loc>https://spindro.github.io/tags/tradr/</loc>
-      <lastmod>2018-09-19T00:00:00+02:00</lastmod>
+      <loc>https://spindro.github.io/tags/slam/</loc>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://spindro.github.io/tags/sensors/</loc>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -243,8 +251,17 @@
     
     <url>
     
+      <loc>https://spindro.github.io/tags/tradr/</loc>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://spindro.github.io/tags/</loc>
-      <lastmod>2018-09-19T00:00:00+02:00</lastmod>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>PLVS Teaser</title>
+      <link>https://spindro.github.io/post/plvs/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://spindro.github.io/post/plvs/</guid>
+      <description>Luigi Feda and I recently released on social media a teaser of PLVS in action. Here you can find more info and a lot of videos of PLVS showing its capabilities on many different datasets. PLVS is still a work in progress but the software will be released as open-source with our outcoming paper very soon!</description>
+    </item>
+    
+    <item>
       <title>A little wrap-up of the last two years</title>
       <link>https://spindro.github.io/post/tradr/</link>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
