@@ -71,26 +71,7 @@
     
     <url>
     
-      <loc>https://spindro.github.io/tags/blog/</loc>
-      <lastmod>2018-09-17T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://spindro.github.io/categories/blog/</loc>
-      <lastmod>2018-09-17T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://spindro.github.io/categories/</loc>
-      <lastmod>2018-09-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -197,16 +178,7 @@
     
     <url>
     
-      <loc>https://spindro.github.io/tags/robots/</loc>
-      <lastmod>2018-09-17T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://spindro.github.io/categories/robots/</loc>
+      <loc>https://spindro.github.io/categories/robotics/</loc>
       <lastmod>2018-09-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

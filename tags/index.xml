@@ -31,15 +31,6 @@
     </item>
     
     <item>
-      <title>Blog</title>
-      <link>https://spindro.github.io/tags/blog/</link>
-      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://spindro.github.io/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Computer vision</title>
       <link>https://spindro.github.io/tags/computer-vision/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
@@ -99,15 +90,6 @@
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/tags/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robots</title>
-      <link>https://spindro.github.io/tags/robots/</link>
-      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://spindro.github.io/tags/robots/</guid>
       <description></description>
     </item>
     
