@@ -22,74 +22,11 @@
     </item>
     
     <item>
-      <title>Augmented reality</title>
-      <link>https://spindro.github.io/tags/augmented-reality/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://spindro.github.io/tags/augmented-reality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer vision</title>
-      <link>https://spindro.github.io/tags/computer-vision/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://spindro.github.io/tags/computer-vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>EU Project</title>
       <link>https://spindro.github.io/tags/eu-project/</link>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/tags/eu-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Image processig</title>
-      <link>https://spindro.github.io/tags/image-processig/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://spindro.github.io/tags/image-processig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mapping</title>
-      <link>https://spindro.github.io/tags/mapping/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://spindro.github.io/tags/mapping/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Open source</title>
-      <link>https://spindro.github.io/tags/open-source/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://spindro.github.io/tags/open-source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Perception</title>
-      <link>https://spindro.github.io/tags/perception/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://spindro.github.io/tags/perception/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robotics</title>
-      <link>https://spindro.github.io/tags/robotics/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://spindro.github.io/tags/robotics/</guid>
       <description></description>
     </item>
     
@@ -103,20 +40,83 @@
     </item>
     
     <item>
-      <title>Sensors</title>
-      <link>https://spindro.github.io/tags/sensors/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://spindro.github.io/tags/sensors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>TRADR</title>
       <link>https://spindro.github.io/tags/tradr/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/tags/tradr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>augmented reality</title>
+      <link>https://spindro.github.io/tags/augmented-reality/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://spindro.github.io/tags/augmented-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer vision</title>
+      <link>https://spindro.github.io/tags/computer-vision/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://spindro.github.io/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image processig</title>
+      <link>https://spindro.github.io/tags/image-processig/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://spindro.github.io/tags/image-processig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mapping</title>
+      <link>https://spindro.github.io/tags/mapping/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://spindro.github.io/tags/mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open source</title>
+      <link>https://spindro.github.io/tags/open-source/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://spindro.github.io/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perception</title>
+      <link>https://spindro.github.io/tags/perception/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://spindro.github.io/tags/perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robotics</title>
+      <link>https://spindro.github.io/tags/robotics/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://spindro.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sensors</title>
+      <link>https://spindro.github.io/tags/sensors/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://spindro.github.io/tags/sensors/</guid>
       <description></description>
     </item>
     

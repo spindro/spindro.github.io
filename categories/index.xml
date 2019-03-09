@@ -30,15 +30,6 @@
     </item>
     
     <item>
-      <title>Robotics</title>
-      <link>https://spindro.github.io/categories/robotics/</link>
-      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://spindro.github.io/categories/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SLAM</title>
       <link>https://spindro.github.io/categories/slam/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
@@ -53,6 +44,15 @@
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/categories/tradr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robotics</title>
+      <link>https://spindro.github.io/categories/robotics/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://spindro.github.io/categories/robotics/</guid>
       <description></description>
     </item>
     
