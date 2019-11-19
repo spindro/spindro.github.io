@@ -16,8 +16,7 @@
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/post/plvs/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.luigifreda.com/&#34; target=&#34;_blank&#34;&gt;Luigi Freda&lt;/a&gt; and I recently released on social media a teaser of PLVS in action.
-&lt;a href=&#34;http://www.luigifreda.com/research/plvs-an-open-source-rgb-d-and-stereo-slam-for-volumetric-reconstruction-and-3d-incremental-segmentation/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Here&lt;/strong&gt;&lt;/a&gt; you can find more info and a lot of videos of PLVS showing its capabilities on many different datasets.
+      <description>&lt;p&gt;We recently released a teaser of PLVS in action. &lt;a href=&#34;http://www.luigifreda.com/research/plvs-an-open-source-rgb-d-and-stereo-slam-for-volumetric-reconstruction-and-3d-incremental-segmentation/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Here&lt;/strong&gt;&lt;/a&gt; you can find more info and a lot of videos of PLVS showing its capabilities on many different datasets.
 PLVS is still a work in progress but the software will be released as open-source with our outcoming paper very soon!&lt;/p&gt;
 </description>
     </item>
@@ -32,19 +31,18 @@ PLVS is still a work in progress but the software will be released as open-sourc
     </item>
     
     <item>
-      <title>A little wrap-up of the last two years</title>
+      <title>TRADR experience</title>
       <link>https://spindro.github.io/post/tradr/</link>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/post/tradr/</guid>
-      <description>&lt;p&gt;This is the first post of my personal page and in some sense, the story behind this blog.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;I  had the privilege to collaborate as a bachelor and later master student to a European project &lt;a href=&#34;http://www.tradr-project.eu/&#34; target=&#34;_blank&#34;&gt;TRADR: Long-Term Human-Robot Teaming for Disaster Response&lt;/a&gt;. Something very unusual here in Italy, in fact, it hasn&amp;rsquo;t been always easy to make this intern at the Alcor lab, which was responsible for the WP4 of the project, coexist with my ordinary studies. By the way, it was worth it. I&amp;rsquo;ve learned a lot of stuff, travelled as much and made new connections.
-I&amp;rsquo;ve even been an actor!&lt;/p&gt;
+&lt;h1 id=&#34;this-is-the-first-post-of-my-personal-page-and-in-some-sense-the-story-the-beginning-of-my-interest-in-research&#34;&gt;This is the first post of my personal page and in some sense, the story the beginning of my interest in research.&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://spindro.github.io/img/me.png&#34; alt=&#34;Being an actor&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;I had the privilege to collaborate as a bachelor and later master student to an European project &lt;a href=&#34;http://www.tradr-project.eu/&#34; target=&#34;_blank&#34;&gt;TRADR: Long-Term Human-Robot Teaming for Disaster Response&lt;/a&gt;. It has not been always easy to make this intern at the Alcor lab coexist with my ordinary studies, but was worth it. I&amp;rsquo;ve learned a lot of stuff, travelled as much and made new connections.&lt;/p&gt;
 
-&lt;p&gt;The video crew of the Italians Firefighters, the Vigili del Fuoco captured various moments of the final year review project held in an industrial site near Venice. In the the video can be appreciated how, moving around on my chair, staring intensively at the screen, I try to make feel the viewer the same thrilling sensation of the time running out and a long list of things still to do.&lt;/p&gt;
+&lt;p&gt;The video crew of the Italians Firefighters, the Vigili del Fuoco captured various moments of the final year review project held in an industrial site near Venice.&lt;/p&gt;
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -52,23 +50,7 @@ I&amp;rsquo;ve even been an actor!&lt;/p&gt;
 &lt;/div&gt;
 
 
-&lt;p&gt;First things first!
-Everything started thanks to &lt;a href=&#34;http://www.luigifreda.com/&#34; target=&#34;_blank&#34;&gt;Luigi Freda&lt;/a&gt;. I was doing my bachelor thesis with him, and he asked me to help him with some experiments on robot &lt;a href=&#34;https://sites.google.com/a/dis.uniroma1.it/3d-cc-patrolling/&#34; target=&#34;_blank&#34;&gt;path planning and patrolling&lt;/a&gt;. This is actually the starting point of my intern at the Alcor lab. One month later I was at the year 3 review held in Montelibretti in an awesome training site for the firefighters which contained everything you can imagine that could be set on fire. My on field duty was being a safety guy (i.e the one that prevents robots costing thousands of euros to do stupid things). Our package got an excellence evaluation and I hope that my little contribution to the field and the evening spent in the department helped to achieve this result.
-Luigi saw my passion and the willingness to learn and started to fill my head with notions of differential geometry, computer vision, developer tricks, presentations and paper writing aids, video making, tons of paper form the best sources in this field and always a good dose of explanations when needed. The perfect starting instruments for approaching the research world and in particular that beautiful field that combines computer vision with robotics (do I already said the word SLAM?). Besides learning a lot of things, I&amp;rsquo;ve also participated in the TRADR summer school on human-robot interaction in Utrecht.
-Then as the  Alcor team went for the European Robotics League event in Piombino. Where we had a live demo of our robots and described to a huge crowd how they are able to achieve autonomous navigation, mapping and patrolling in an awesome location.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://spindro.github.io/img/piombino.jpg&#34; alt=&#34;Piombino&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The final review of the project came earlier than expected. Two awesome weeks spent in Venice with a bunch of formidable researcher from all the Europe. It&amp;rsquo;s incredible how much you can learn stealing with the eyes meanwhile working side by side with the others. This is the fantastic group of developers that shared the military tend under every possible meteorological condition, including snow!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://spindro.github.io/img/developers.jpg&#34; alt=&#34;TRADR Developers&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Even this time we got an excellence evaluation for our package, and also for the whole TRADR project. This time my contribution, not only as a safety guy, was there. We presented the demo of PLVS my first research project with Luigi. News about this SLAM framework and relative publication and code will be out very soon.&lt;/p&gt;
-
-&lt;p&gt;This experience showed me glimpses of the path that I want to follow in the close future. Hude credits to Luigi, that introduced me into the world of research, and who his still teaching me a lot of stuff from its new position as Chief Research Officer at &lt;a href=&#34;https://www.inglobetechnologies.com/&#34; target=&#34;_blank&#34;&gt;Inglobe Technologies&lt;/a&gt;. Always in the hard way of course;).&lt;/p&gt;
-
-&lt;p&gt;As a starting point, I couldn&amp;rsquo;t imagine anything better.
-This experience has now ended, now forward with the next!&lt;/p&gt;
+&lt;p&gt;This is just the last of many activities done for the project in different countries, including: two reviews, a robotics summer school in Utrecht (TNO), and a demo for the European Robotics League held in Piombino.&lt;/p&gt;
 </description>
     </item>
     
