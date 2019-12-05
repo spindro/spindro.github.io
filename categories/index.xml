@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>GNN</title>
+      <link>https://spindro.github.io/categories/gnn/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://spindro.github.io/categories/gnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PLVS</title>
       <link>https://spindro.github.io/categories/plvs/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
@@ -44,6 +53,15 @@
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/categories/tradr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph</title>
+      <link>https://spindro.github.io/categories/graph/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://spindro.github.io/categories/graph/</guid>
       <description></description>
     </item>
     
