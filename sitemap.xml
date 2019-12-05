@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>https://spindro.github.io/post/plvs/</loc>
+      <loc>https://spindro.github.io/post/gnn/</loc>
       <lastmod>2019-12-05T00:00:00+00:00</lastmod>
     </url>
     
@@ -96,7 +96,7 @@
     
     <url>
     
-      <loc>https://spindro.github.io/categories/gnn/</loc>
+      <loc>https://spindro.github.io/categories/graph-neural-network/</loc>
       <lastmod>2019-12-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -143,6 +143,15 @@
     
       <loc>https://spindro.github.io/categories/slam/</loc>
       <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://spindro.github.io/categories/seminar/</loc>
+      <lastmod>2019-12-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -223,15 +232,6 @@
     <url>
     
       <loc>https://spindro.github.io/tags/graph/</loc>
-      <lastmod>2019-12-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://spindro.github.io/categories/graph/</loc>
       <lastmod>2019-12-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

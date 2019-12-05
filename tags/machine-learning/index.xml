@@ -14,10 +14,10 @@
     
     <item>
       <title>Seminar on Graph Neural Networks</title>
-      <link>https://spindro.github.io/post/plvs/</link>
+      <link>https://spindro.github.io/post/gnn/</link>
       <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://spindro.github.io/post/plvs/</guid>
+      <guid>https://spindro.github.io/post/gnn/</guid>
       <description>Here you can find an introduction to the world of graph neural networks (GNN for short). This family of models is able to take as input graph structured data and solve many interesting tasks on the graph itself.</description>
     </item>
     
