@@ -12,6 +12,14 @@
     
     <url>
     
+      <loc>https://spindro.github.io/post/test/</loc>
+      <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://spindro.github.io/post/plvs/</loc>
       <lastmod>2018-10-01T00:00:00+00:00</lastmod>
     </url>
@@ -54,6 +62,15 @@
     
       <loc>https://spindro.github.io/publication_types/0/</loc>
       <lastmod>2018-09-19T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://spindro.github.io/publication_types/1/</loc>
+      <lastmod>2019-04-07T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -152,6 +169,15 @@
     
       <loc>https://spindro.github.io/categories/seminar/</loc>
       <lastmod>2019-12-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://spindro.github.io/tags/source-themes/</loc>
+      <lastmod>2019-04-07T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
