@@ -22,16 +22,6 @@
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://spindro.github.io/post/test/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://spindro.github.io/post/test/</guid>
-      <description>Click the Slides button above to demo Academic&amp;rsquo;s Markdown slides feature.
- Supplementary notes can be added here, including code and math.</description>
-    </item>
-    
-    <item>
       <title>PLVS Teaser</title>
       <link>https://spindro.github.io/post/plvs/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
