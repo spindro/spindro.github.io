@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Efficient data augmentation using graph imputation neural networks</title>
+      <link>https://spindro.github.io/publication/ggnn/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://spindro.github.io/publication/ggnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Seminar on Graph Neural Networks</title>
       <link>https://spindro.github.io/post/gnn/</link>
       <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
@@ -62,6 +71,15 @@ PLVS is still a work in progress but the software will be released as open-sourc
 
 &lt;p&gt;This is just the last of many activities done for the project in different countries, including: two reviews, a robotics summer school in Utrecht (TNO), and a demo for the European Robotics League held in Piombino.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://spindro.github.io/publication/ginn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://spindro.github.io/publication/ginn/</guid>
+      <description></description>
     </item>
     
   </channel>
