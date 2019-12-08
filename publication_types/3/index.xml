@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://spindro.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Missing Data Imputation with Adversarially-trained Graph Convolutional Networks</title>
       <link>https://spindro.github.io/publication/ginn/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
       
       <guid>https://spindro.github.io/publication/ginn/</guid>
       <description></description>
