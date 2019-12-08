@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Missing Data Imputation with Adversarially-trained Graph Convolutional Networks</title>
+      <link>https://spindro.github.io/publication/ginn/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://spindro.github.io/publication/ginn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PLVS Teaser</title>
       <link>https://spindro.github.io/post/plvs/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
@@ -71,15 +80,6 @@ PLVS is still a work in progress but the software will be released as open-sourc
 
 &lt;p&gt;This is just the last of many activities done for the project in different countries, including: two reviews, a robotics summer school in Utrecht (TNO), and a demo for the European Robotics League held in Piombino.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://spindro.github.io/publication/ginn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://spindro.github.io/publication/ginn/</guid>
-      <description></description>
     </item>
     
   </channel>
