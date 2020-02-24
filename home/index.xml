@@ -27,7 +27,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/home/about/</guid>
-      <description>Biography I am a PhD candidate at the ISPAMM lab of Sapienza University of Rome. My main research interests are two exciting fields in Machine Learning: Graph Neural Network and Adversarial Machine Learning. The first studies a family of Neural Networks capable of working directly on graph-structured data that can encode physical, biological, and social systems. The second tests the vulnerability of Neural Networks such that they can be deployed safely in the real world.</description>
+      <description>Biography I am a PhD candidate at the ISPAMM lab of Sapienza University of Rome. I&amp;rsquo;m working under the supervision of Dr. Simone Scardapane. My main research interests are two exciting fields in Machine Learning: Graph Neural Network and Adversarial Machine Learning. The first studies a family of Neural Networks capable of working directly on graph-structured data that can encode physical, biological, and social systems. The second tests the vulnerability of Neural Networks such that they can be deployed safely in the real world.</description>
     </item>
     
     <item>
@@ -103,7 +103,7 @@
     </item>
     
     <item>
-      <title>Custom Section</title>
+      <title>Teaching Assistance</title>
       <link>https://spindro.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
