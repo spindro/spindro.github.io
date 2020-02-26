@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
@@ -15,10 +13,12 @@
   
   
   
-  <meta name="description" content="PhD Candidate">
+    
+  
+  <meta name="description" content="Graph convolutional networks (GCNs) are a family of neural network models that perform inference on graph data by interleaving vertex-wise operations and message-passing exchanges across nodes. Concerning the latter, two key questions arise: (i) how to design a differentiable exchange protocol (e.g., a 1-hop Laplacian smoothing in the original GCN), and (ii) how to characterize the trade-off in complexity with respect to the local updates. In this paper, we show that state-of-the-art results can be achieved by adapting the number of communication steps independently at every node. In particular, we endow each node with a halting unit (inspired by Graves&#39; adaptive computation time) that after every exchange decides whether to continue communicating or not. We show that the proposed adaptive propagation GCN (AP-GCN) achieves superior or similar results to the best proposed models so far on a number of benchmarks, while requiring a small overhead in terms of additional parameters. We also investigate a regularization term to enforce an explicit trade-off between communication and accuracy. The code for the AP-GCN experiments is released as an open-source library.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://spindro.github.io/publication_types/3/">
+  <link rel="alternate" hreflang="en-us" href="https://spindro.github.io/publication/apgcn/">
 
   
 
@@ -46,13 +46,6 @@
     
       
     
-    
-      
-      
-        
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous">
-        
-      
     
 
     
@@ -88,32 +81,34 @@
   
 
   
-  <link rel="alternate" href="https://spindro.github.io/publication_types/3/index.xml" type="application/rss+xml" title="Indro Spinelli">
-  <link rel="feed" href="https://spindro.github.io/publication_types/3/index.xml" type="application/rss+xml" title="Indro Spinelli">
+  <link rel="alternate" href="https://spindro.github.io/index.xml" type="application/rss+xml" title="Indro Spinelli">
+  <link rel="feed" href="https://spindro.github.io/index.xml" type="application/rss+xml" title="Indro Spinelli">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://spindro.github.io/publication_types/3/">
+  <link rel="canonical" href="https://spindro.github.io/publication/apgcn/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Indro Spinelli">
-  <meta property="og:url" content="https://spindro.github.io/publication_types/3/">
-  <meta property="og:title" content="3 | Indro Spinelli">
-  <meta property="og:description" content="PhD Candidate">
+  <meta property="og:url" content="https://spindro.github.io/publication/apgcn/">
+  <meta property="og:title" content="Adaptive Propagation Graph Convolutional Network | Indro Spinelli">
+  <meta property="og:description" content="Graph convolutional networks (GCNs) are a family of neural network models that perform inference on graph data by interleaving vertex-wise operations and message-passing exchanges across nodes. Concerning the latter, two key questions arise: (i) how to design a differentiable exchange protocol (e.g., a 1-hop Laplacian smoothing in the original GCN), and (ii) how to characterize the trade-off in complexity with respect to the local updates. In this paper, we show that state-of-the-art results can be achieved by adapting the number of communication steps independently at every node. In particular, we endow each node with a halting unit (inspired by Graves&#39; adaptive computation time) that after every exchange decides whether to continue communicating or not. We show that the proposed adaptive propagation GCN (AP-GCN) achieves superior or similar results to the best proposed models so far on a number of benchmarks, while requiring a small overhead in terms of additional parameters. We also investigate a regularization term to enforce an explicit trade-off between communication and accuracy. The code for the AP-GCN experiments is released as an open-source library.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2020-01-01T00:00:00&#43;01:00">
+  <meta property="article:published_time" content="2020-01-01T00:00:00&#43;01:00">
+  
+  <meta property="article:modified_time" content="2020-01-01T00:00:00&#43;01:00">
   
 
   
 
   
 
-  <title>3 | Indro Spinelli</title>
+  <title>Adaptive Propagation Graph Convolutional Network | Indro Spinelli</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -241,48 +236,155 @@
   </div>
 </nav>
 
-
-
-
-
-<div class="universal-wrapper">
-  <h1>3</h1>
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
 
-  
-  
-  <div>
-    <h2><a href="https://spindro.github.io/publication/apgcn/">Adaptive Propagation Graph Convolutional Network</a></h2>
-    <div class="article-style">
+
+  <div class="article-container">
+    <h1 itemprop="name">Adaptive Propagation Graph Convolutional Network</h1>
+    <span class="pub-authors" itemprop="author">
       
-      Graph convolutional networks (GCNs) are a family of neural network models that perform inference on graph data by interleaving vertex-wise operations and message-passing exchanges across nodes. Concerning the latter, two key questions arise: (i) how …
+      Indro Spinelli, Simone Scardapane, Aurelio Uncini
       
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="https://spindro.github.io/publication/ginn/">Missing Data Imputation with Adversarially-trained Graph Convolutional Networks</a></h2>
-    <div class="article-style">
+    </span>
+    <span class="float-right">
       
-      Missing data imputation (MDI) is a fundamental problem in many scientific disciplines. Popular methods for MDI use global statistics computed from the entire data set (e.g., the feature-wise medians), or build predictive models operating …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="https://spindro.github.io/publication/plvs/">PLVS: An Open-Source RGB-D and Stereo SLAM System with Keypoints, Keylines, Volumetric Mapping and 3D Incremental Segmentation</a></h2>
-    <div class="article-style">
-      
-      PLVS is a real-time system which leverages sparse RGB-D and Stereo SLAM, volumetric mapping and 3D unsupervised incremental segmentation. PLVS stands for Points, Lines, Volumetric mapping and Segmentation. The system can run entirely on CPU or can …
-      
-    </div>
-  </div>
-  
-
-  
-
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Adaptive%20Propagation%20Graph%20Convolutional%20Network&amp;url=https%3a%2f%2fspindro.github.io%2fpublication%2fapgcn%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fspindro.github.io%2fpublication%2fapgcn%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fspindro.github.io%2fpublication%2fapgcn%2f&amp;title=Adaptive%20Propagation%20Graph%20Convolutional%20Network"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fspindro.github.io%2fpublication%2fapgcn%2f&amp;title=Adaptive%20Propagation%20Graph%20Convolutional%20Network"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Adaptive%20Propagation%20Graph%20Convolutional%20Network&amp;body=https%3a%2f%2fspindro.github.io%2fpublication%2fapgcn%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
 </div>
+
+
+    </span>
+
+    
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Graph convolutional networks (GCNs) are a family of neural network models that perform inference on graph data by interleaving vertex-wise operations and message-passing exchanges across nodes. Concerning the latter, two key questions arise: (i) how to design a differentiable exchange protocol (e.g., a 1-hop Laplacian smoothing in the original GCN), and (ii) how to characterize the trade-off in complexity with respect to the local updates. In this paper, we show that state-of-the-art results can be achieved by adapting the number of communication steps independently at every node. In particular, we endow each node with a halting unit (inspired by Graves&rsquo; adaptive computation time) that after every exchange decides whether to continue communicating or not. We show that the proposed adaptive propagation GCN (AP-GCN) achieves superior or similar results to the best proposed models so far on a number of benchmarks, while requiring a small overhead in terms of additional parameters. We also investigate a regularization term to enforce an explicit trade-off between communication and accuracy. The code for the AP-GCN experiments is released as an open-source library.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            <a href="https://spindro.github.io/publication/#3">
+              Manuscript
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            January, 2020
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-sm-none space-below"></div>
+
+    <div class="row" style="padding-top: 10px">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading" style="line-height:34px;">Links</div>
+          <div class="col-12 col-md-9">
+
+            
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2002.10306" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-sm-none space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+  </div>
+</div>
+
+
+
 <div class="container">
   <footer class="site-footer">
   
@@ -349,10 +451,6 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
 
       
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
-        
-      
 
       
       
@@ -369,8 +467,6 @@
     
 
     
-    
-    <script>hljs.initHighlightingOnLoad();</script>
     
 
     
@@ -421,6 +517,4 @@
 
   </body>
 </html>
-
-
 

@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Adaptive Propagation Graph Convolutional Network</title>
+      <link>https://spindro.github.io/publication/apgcn/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://spindro.github.io/publication/apgcn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Efficient data augmentation using graph imputation neural networks</title>
       <link>https://spindro.github.io/publication/ggnn/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
