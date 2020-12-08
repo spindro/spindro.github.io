@@ -15,10 +15,10 @@
   
     
   
-  <meta name="description" content="Recently, data augmentation in the semi-supervised regime, where unlabeled data vastly outnumbers labeled data, has received a considerable attention. In this paper, we describe an efficient technique for this task, exploiting a recent framework we proposed for missing data imputation called graph imputation neural network (GINN). The key idea is to leverage both supervised and unsupervised data to build a graph of similarities between points in the dataset. Then, we augment the dataset by severely damaging a few of the nodes (up to 80% of their features), and reconstructing them using a variation of GINN. On several benchmark datasets, we show that our method can obtain significant improvements compared to a fully-supervised model, and we are able to augment the datasets up to a factor of 10x. This points to the power of graph-based neural networks to represent structural affinities in the samples for tasks of data reconstruction and augmentation. ">
+  <meta name="description" content="The aim of this work is to develop a fully-distributed algorithmic framework for training graph convolutional networks (GCNs). The proposed method is able to exploit the meaningful relational structure of the input data, which are collected by a set of agents that communicate over a sparse network topology. After formulating the centralized GCN training problem, we first show how to make inference in a distributed scenario where the underlying data graph is split among different agents. Then, we propose a distributed gradient descent procedure to solve the GCN training problem. The resulting model distributes computation along three lines: during inference, during back-propagation, and during optimization. Convergence to stationary solutions of the GCN training problem is also established under mild conditions. Finally, we propose an optimization criterion to design the communication topology between agents in order to match with the graph describing data relationships. A wide set of numerical results validate our proposal. To the best of our knowledge, this is the first work combining graph convolutional neural networks with distributed optimization.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://spindro.github.io/publication/ggnn/">
+  <link rel="alternate" hreflang="en-us" href="https://spindro.github.io/publication/dgcn/">
 
   
 
@@ -89,26 +89,26 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://spindro.github.io/publication/ggnn/">
+  <link rel="canonical" href="https://spindro.github.io/publication/dgcn/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Indro Spinelli">
-  <meta property="og:url" content="https://spindro.github.io/publication/ggnn/">
-  <meta property="og:title" content="Efficient data augmentation using graph imputation neural networks | Indro Spinelli">
-  <meta property="og:description" content="Recently, data augmentation in the semi-supervised regime, where unlabeled data vastly outnumbers labeled data, has received a considerable attention. In this paper, we describe an efficient technique for this task, exploiting a recent framework we proposed for missing data imputation called graph imputation neural network (GINN). The key idea is to leverage both supervised and unsupervised data to build a graph of similarities between points in the dataset. Then, we augment the dataset by severely damaging a few of the nodes (up to 80% of their features), and reconstructing them using a variation of GINN. On several benchmark datasets, we show that our method can obtain significant improvements compared to a fully-supervised model, and we are able to augment the datasets up to a factor of 10x. This points to the power of graph-based neural networks to represent structural affinities in the samples for tasks of data reconstruction and augmentation. ">
+  <meta property="og:url" content="https://spindro.github.io/publication/dgcn/">
+  <meta property="og:title" content="Distribuited Graph Convolutional Network | Indro Spinelli">
+  <meta property="og:description" content="The aim of this work is to develop a fully-distributed algorithmic framework for training graph convolutional networks (GCNs). The proposed method is able to exploit the meaningful relational structure of the input data, which are collected by a set of agents that communicate over a sparse network topology. After formulating the centralized GCN training problem, we first show how to make inference in a distributed scenario where the underlying data graph is split among different agents. Then, we propose a distributed gradient descent procedure to solve the GCN training problem. The resulting model distributes computation along three lines: during inference, during back-propagation, and during optimization. Convergence to stationary solutions of the GCN training problem is also established under mild conditions. Finally, we propose an optimization criterion to design the communication topology between agents in order to match with the graph describing data relationships. A wide set of numerical results validate our proposal. To the best of our knowledge, this is the first work combining graph convolutional neural networks with distributed optimization.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-07-01T00:00:00&#43;02:00">
+  <meta property="article:published_time" content="2020-01-01T00:00:00&#43;01:00">
   
-  <meta property="article:modified_time" content="2019-07-01T00:00:00&#43;02:00">
-  
-
+  <meta property="article:modified_time" content="2020-01-01T00:00:00&#43;01:00">
   
 
   
 
-  <title>Efficient data augmentation using graph imputation neural networks | Indro Spinelli</title>
+  
+
+  <title>Distribuited Graph Convolutional Network | Indro Spinelli</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -242,10 +242,10 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Efficient data augmentation using graph imputation neural networks</h1>
+    <h1 itemprop="name">Distribuited Graph Convolutional Network</h1>
     <span class="pub-authors" itemprop="author">
       
-      Indro Spinelli, Simone Scardapane, Michele Scarpiniti, Aurelio Uncini
+      Simone Scardapane, Indro Spinelli, Paolo Di Lorenzo
       
     </span>
     <span class="float-right">
@@ -254,35 +254,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Efficient%20data%20augmentation%20using%20graph%20imputation%20neural%20networks&amp;url=https%3a%2f%2fspindro.github.io%2fpublication%2fggnn%2f"
+         href="https://twitter.com/intent/tweet?text=Distribuited%20Graph%20Convolutional%20Network&amp;url=https%3a%2f%2fspindro.github.io%2fpublication%2fdgcn%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fspindro.github.io%2fpublication%2fggnn%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fspindro.github.io%2fpublication%2fdgcn%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fspindro.github.io%2fpublication%2fggnn%2f&amp;title=Efficient%20data%20augmentation%20using%20graph%20imputation%20neural%20networks"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fspindro.github.io%2fpublication%2fdgcn%2f&amp;title=Distribuited%20Graph%20Convolutional%20Network"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fspindro.github.io%2fpublication%2fggnn%2f&amp;title=Efficient%20data%20augmentation%20using%20graph%20imputation%20neural%20networks"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fspindro.github.io%2fpublication%2fdgcn%2f&amp;title=Distribuited%20Graph%20Convolutional%20Network"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Efficient%20data%20augmentation%20using%20graph%20imputation%20neural%20networks&amp;body=https%3a%2f%2fspindro.github.io%2fpublication%2fggnn%2f">
+         href="mailto:?subject=Distribuited%20Graph%20Convolutional%20Network&amp;body=https%3a%2f%2fspindro.github.io%2fpublication%2fdgcn%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -296,7 +296,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Recently, data augmentation in the semi-supervised regime, where unlabeled data vastly outnumbers labeled data, has received a considerable attention. In this paper, we describe an efficient technique for this task, exploiting a recent framework we proposed for missing data imputation called graph imputation neural network (GINN). The key idea is to leverage both supervised and unsupervised data to build a graph of similarities between points in the dataset. Then, we augment the dataset by severely damaging a few of the nodes (up to 80% of their features), and reconstructing them using a variation of GINN. On several benchmark datasets, we show that our method can obtain significant improvements compared to a fully-supervised model, and we are able to augment the datasets up to a factor of 10x. This points to the power of graph-based neural networks to represent structural affinities in the samples for tasks of data reconstruction and augmentation.</p>
+    <p class="pub-abstract" itemprop="text">The aim of this work is to develop a fully-distributed algorithmic framework for training graph convolutional networks (GCNs). The proposed method is able to exploit the meaningful relational structure of the input data, which are collected by a set of agents that communicate over a sparse network topology. After formulating the centralized GCN training problem, we first show how to make inference in a distributed scenario where the underlying data graph is split among different agents. Then, we propose a distributed gradient descent procedure to solve the GCN training problem. The resulting model distributes computation along three lines: during inference, during back-propagation, and during optimization. Convergence to stationary solutions of the GCN training problem is also established under mild conditions. Finally, we propose an optimization criterion to design the communication topology between agents in order to match with the graph describing data relationships. A wide set of numerical results validate our proposal. To the best of our knowledge, this is the first work combining graph convolutional neural networks with distributed optimization.</p>
     
 
     
@@ -307,8 +307,8 @@
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
             
-            <a href="https://spindro.github.io/publication/#1">
-              Conference paper
+            <a href="https://spindro.github.io/publication/#3">
+              Manuscript
             </a>
             
           </div>
@@ -320,18 +320,6 @@
     
 
     
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Italian Workshop on Neural Networks</div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
 
     <div class="row">
       <div class="col-md-1"></div>
@@ -339,7 +327,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9" itemprop="datePublished">
-            July, 2019
+            January, 2020
           </div>
         </div>
       </div>
@@ -359,7 +347,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/1906.08502" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2007.06281" target="_blank" rel="noopener">
   PDF
 </a>
 

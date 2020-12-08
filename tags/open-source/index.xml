@@ -30,14 +30,5 @@
       <description>We recently released a teaser of PLVS in action. Here you can find more info and a lot of videos of PLVS showing its capabilities on many different datasets. PLVS is still a work in progress but the software will be released as open-source with our outcoming paper very soon!</description>
     </item>
     
-    <item>
-      <title>PLVS: An Open-Source RGB-D and Stereo SLAM System with Keypoints, Keylines, Volumetric Mapping and 3D Incremental Segmentation</title>
-      <link>https://spindro.github.io/publication/plvs/</link>
-      <pubDate>Wed, 19 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://spindro.github.io/publication/plvs/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

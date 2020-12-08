@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>Distribuited Graph Convolutional Network</title>
+      <link>https://spindro.github.io/publication/dgcn/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://spindro.github.io/publication/dgcn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Seminar on Graph Neural Networks</title>
       <link>https://spindro.github.io/post/gnn/</link>
       <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
