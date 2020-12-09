@@ -13,29 +13,29 @@
     
     
     <item>
-      <title>Missing Data Imputation with Adversarially-trained Graph Convolutional Networks</title>
-      <link>https://spindro.github.io/publication/ginn/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
+      <title>Distribuited Graph Convolutional Network</title>
+      <link>https://spindro.github.io/publication/dgcn/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0100</pubDate>
       
-      <guid>https://spindro.github.io/publication/ginn/</guid>
+      <guid>https://spindro.github.io/publication/dgcn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive Propagation Graph Convolutional Network</title>
       <link>https://spindro.github.io/publication/apgcn/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0100</pubDate>
       
       <guid>https://spindro.github.io/publication/apgcn/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Distribuited Graph Convolutional Network</title>
-      <link>https://spindro.github.io/publication/dgcn/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      <title>Missing Data Imputation with Adversarially-trained Graph Convolutional Networks</title>
+      <link>https://spindro.github.io/publication/ginn/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0200</pubDate>
       
-      <guid>https://spindro.github.io/publication/dgcn/</guid>
+      <guid>https://spindro.github.io/publication/ginn/</guid>
       <description></description>
     </item>
     
