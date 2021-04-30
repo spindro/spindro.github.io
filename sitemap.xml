@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://spindro.github.io/publication/fairdrop/</loc>
+      <lastmod>2021-04-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://spindro.github.io/publication/dgcn/</loc>
       <lastmod>2020-12-01T00:00:00+01:00</lastmod>
     </url>
@@ -94,7 +102,7 @@
     <url>
     
       <loc>https://spindro.github.io/publication_types/2/</loc>
-      <lastmod>2020-11-01T00:00:00+01:00</lastmod>
+      <lastmod>2020-12-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -103,7 +111,7 @@
     <url>
     
       <loc>https://spindro.github.io/publication_types/3/</loc>
-      <lastmod>2020-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2021-04-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -128,7 +136,7 @@
     
     <url>
     
-      <loc>https://spindro.github.io/categories/eu-project/</loc>
+      <loc>https://spindro.github.io/tags/eu-project/</loc>
       <lastmod>2018-09-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -137,7 +145,7 @@
     
     <url>
     
-      <loc>https://spindro.github.io/tags/eu-project/</loc>
+      <loc>https://spindro.github.io/categories/eu-project/</loc>
       <lastmod>2018-09-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -182,7 +190,7 @@
     
     <url>
     
-      <loc>https://spindro.github.io/categories/slam/</loc>
+      <loc>https://spindro.github.io/tags/slam/</loc>
       <lastmod>2018-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -191,7 +199,7 @@
     
     <url>
     
-      <loc>https://spindro.github.io/tags/slam/</loc>
+      <loc>https://spindro.github.io/categories/slam/</loc>
       <lastmod>2018-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -209,8 +217,8 @@
     
     <url>
     
-      <loc>https://spindro.github.io/categories/tradr/</loc>
-      <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+      <loc>https://spindro.github.io/tags/tradr/</loc>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -218,8 +226,8 @@
     
     <url>
     
-      <loc>https://spindro.github.io/tags/tradr/</loc>
-      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+      <loc>https://spindro.github.io/categories/tradr/</loc>
+      <lastmod>2018-09-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -362,8 +370,8 @@
     
     <url>
     
-      <loc>https://spindro.github.io/categories/robotics/</loc>
-      <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+      <loc>https://spindro.github.io/tags/robotics/</loc>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -371,8 +379,8 @@
     
     <url>
     
-      <loc>https://spindro.github.io/tags/robotics/</loc>
-      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+      <loc>https://spindro.github.io/categories/robotics/</loc>
+      <lastmod>2018-09-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
