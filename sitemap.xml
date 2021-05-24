@@ -154,6 +154,13 @@
     
     <url>
     
+      <loc>https://spindro.github.io/post/gnn/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://spindro.github.io/categories/graph-neural-network/</loc>
       <lastmod>2019-12-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -264,6 +271,22 @@
     
       <loc>https://spindro.github.io/tags/computer-vision/</loc>
       <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://spindro.github.io/tags/fairdrop/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://spindro.github.io/tags/fairness/</loc>
       <priority>0</priority>
     </url>
     

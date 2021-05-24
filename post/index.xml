@@ -39,5 +39,14 @@
       <description>This is the first post of my personal page and in some sense, the story the beginning of my interest in research. I had the privilege to collaborate as a bachelor and later master student to an European project TRADR: Long-Term Human-Robot Teaming for Disaster Response. It has not been always easy to make this intern at the Alcor lab coexist with my ordinary studies, but was worth it. I&amp;rsquo;ve learned a lot of stuff, travelled as much and made new connections.</description>
     </item>
     
+    <item>
+      <title>FairDrop @ USI </title>
+      <link>https://spindro.github.io/post/gnn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://spindro.github.io/post/gnn/</guid>
+      <description>Reacently I had the pleasure of talking about graphs and fairness at &amp;ldquo;Università della Svizzera Italiana&amp;rdquo;. The talk was hosted by the Graph Machine Learning Group of Prof. Cesare Alippi and organized by Daniele Grattarola. For a buch of slides look Here.</description>
+    </item>
+    
   </channel>
 </rss>
