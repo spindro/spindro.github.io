@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>FairDrop @ USI </title>
+      <link>https://spindro.github.io/post/fairdrop/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://spindro.github.io/post/fairdrop/</guid>
+      <description>&lt;p&gt;Reacently I had the pleasure of talking about graphs and fairness at &amp;ldquo;Università della Svizzera Italiana&amp;rdquo;. The talk was hosted by the &lt;a href=&#34;https://gmlg.ch/&#34; target=&#34;_blank&#34;&gt;Graph Machine Learning Group&lt;/a&gt; of Prof. &lt;a href=&#34;https://search.usi.ch/en/people/e45d870d6c9d9871b8cf6493e73c0558/alippi-cesare&#34; target=&#34;_blank&#34;&gt;Cesare Alippi&lt;/a&gt; and organized by &lt;a href=&#34;https://danielegrattarola.github.io/&#34; target=&#34;_blank&#34;&gt;Daniele Grattarola&lt;/a&gt;. For a buch of slides look &lt;a href=&#34;https://spindro.github.io/files/FairDrop.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Biased Edge Dropout for Enhancing Fairness in Graph Representation Learning</title>
       <link>https://spindro.github.io/publication/fairdrop/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0200</pubDate>
@@ -106,16 +116,6 @@ PLVS is still a work in progress but the software will be released as open-sourc
 
 
 &lt;p&gt;This is just the last of many activities done for the project in different countries, including: two reviews, a robotics summer school in Utrecht (TNO), and a demo for the European Robotics League held in Piombino.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>FairDrop @ USI </title>
-      <link>https://spindro.github.io/post/fairdrop/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://spindro.github.io/post/fairdrop/</guid>
-      <description>&lt;p&gt;Reacently I had the pleasure of talking about graphs and fairness at &amp;ldquo;Università della Svizzera Italiana&amp;rdquo;. The talk was hosted by the &lt;a href=&#34;https://gmlg.ch/&#34; target=&#34;_blank&#34;&gt;Graph Machine Learning Group&lt;/a&gt; of Prof. &lt;a href=&#34;https://search.usi.ch/en/people/e45d870d6c9d9871b8cf6493e73c0558/alippi-cesare&#34; target=&#34;_blank&#34;&gt;Cesare Alippi&lt;/a&gt; and organized by &lt;a href=&#34;https://danielegrattarola.github.io/&#34; target=&#34;_blank&#34;&gt;Daniele Grattarola&lt;/a&gt;. For a buch of slides look &lt;a href=&#34;https://spindro.github.io/files/FairDrop.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
