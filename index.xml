@@ -13,7 +13,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/about/</guid>
-      <description>Experience 2023-**** Assistant Professor Department of Computer Science, Sapienza University of Rome 2022-2023 Research Fellow CINI, Consorzio Interuniversitario Nazionale per l&amp;rsquo;Informatica 2017-2018 Research Intern Alcor lab, Sapienza University of Rome Education 2019-2022 PhD Information and Communication Technologies Sapienza University of Rome / UiT The Arctic University of Norway 2017-2019 Msc Artificial Intelligence and Robotics Sapienza University of Rome 2014-2017 BSc Computer and System Engineering Sapienza University of Rome </description>
+      <description>Experience 2023-**** Assistant Professor Department of Computer Science, Sapienza University of Rome 2022-2023 Research Fellow CINI, Consorzio Interuniversitario Nazionale per l&amp;rsquo;Informatica 2022-2023 Teaching Assistant LUISS, Department of Business and Management 2017-2018 Research Intern Alcor lab, Sapienza University of Rome Education 2019-2022 PhD Information and Communication Technologies Sapienza University of Rome / UiT The Arctic University of Norway 2017-2019 Msc Artificial Intelligence and Robotics Sapienza University of Rome 2014-2017 BSc Computer and System Engineering Sapienza University of Rome CV Here!</description>
     </item>
     
     <item>
@@ -23,7 +23,7 @@
       
       <guid>https://spindro.github.io/activities/</guid>
       <description>Talks Università della Svizzera Italiana Fair Graph Representation Learning Roma Tre University Graph Machine Learning Reviewing I have served as reviewer for these AI conferences and journals:
-Conferences International Conference on Machine Learning (ICML) IEEE World Congress on Computational Intelligence (WCCI) Association for the Advancement of Artificial Intelligence (AAAI) International Conference on Artificial Intelligence and Statistics (AISTATS) Journals IEEE Transactions on Neural Networks and Learning Systems Neural Networks, Elsevier Neurocomputing, Elsevier Neural Processing Letters, Springer </description>
+Conferences International Conference on Machine Learning (ICML) IEEE World Congress on Computational Intelligence (WCCI) Association for the Advancement of Artificial Intelligence (AAAI) International Conference on Artificial Intelligence and Statistics (AISTATS) Journals IEEE Transactions on Neural Networks and Learning Systems Neural Networks, Elsevier Neurocomputing, Elsevier Cognitive Computation, Springer Neural Processing Letters, Springer </description>
     </item>
     
     <item>
@@ -41,10 +41,10 @@ Conferences International Conference on Machine Learning (ICML) IEEE World Congr
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/publications/</guid>
-      <description>Preprints Drop Edges and Adapt: a Fairness Enforcing Fine-tuning for Graph Neural Networks
-I Spinelli, R Bianchini, S Scardapane arXiv preprint arXiv:2302.11479	2023 Journals Re-identification of objects from aerial photos with hybrid siamese neural networks
-A Devoto, I Spinelli, F Murabito, F Chiovoloni, R Musmeci, S Scardapane IEEE Transactions on Industrial Informatics	2022 A meta-learning approach for training explainable graph neural networks
-I Spinelli, S Scardapane, A Uncini IEEE Transactions on Neural Networks and Learning Systems 2022 Fairdrop: Biased edge dropout for enhancing fairness in graph representation learning I Spinelli, S Scardapane, A Hussain, A Uncini IEEE Transactions on Artificial Intelligence 2021 Distributed training of graph convolutional networks</description>
+      <description>Journals Interpreting black-box models: a review on explainable artificial intelligence
+V Hassija, V Chamola, A Mahapatra, A Singal, D Goel, K Huang, S Scardapane, I Spinelli, M Mahmud, A Hussain Cognitive Computation	2023 Drop Edges and Adapt: a Fairness Enforcing Fine-tuning for Graph Neural Networks
+I Spinelli, R Bianchini, S Scardapane Neural Networks	2023 Re-identification of objects from aerial photos with hybrid siamese neural networks
+A Devoto, I Spinelli, F Murabito, F Chiovoloni, R Musmeci, S Scardapane IEEE Transactions on Industrial Informatics	2022 A meta-learning approach for training explainable graph neural networks</description>
     </item>
     
   </channel>
