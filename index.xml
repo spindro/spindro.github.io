@@ -22,8 +22,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/activities/</guid>
-      <description>Talks LoG MeetUp Trento Explainable Graph Neural Networks Università della Svizzera Italiana Fair Graph Representation Learning Roma Tre University Graph Machine Learning Reviewing I am serving as Associate Editor for The Visual Computer.
-I have been involved as reviewer for the following AI conferences and journals:
+      <description>Talks LoG MeetUp Trento Explainable Graph Neural Networks Università della Svizzera Italiana Fair Graph Representation Learning Roma Tre University Graph Machine Learning Editing I am serving as Associate Editor for The Visual Computer.
+Reviewing I have been involved as reviewer for the following AI conferences and journals:
 Conferences International Conference on Machine Learning (ICML) IEEE World Congress on Computational Intelligence (WCCI) Association for the Advancement of Artificial Intelligence (AAAI) International Conference on Artificial Intelligence and Statistics (AISTATS) IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) European Conference on Computer Vision (ECCV) Journals IEEE Transactions on Neural Networks and Learning Systems IEEE Transactions on Artificial Intelligence Neural Networks, Elsevier Neurocomputing, Elsevier Cognitive Computation, Springer Neural Processing Letters, Springer </description>
     </item>
     
@@ -43,8 +43,7 @@ Conferences International Conference on Machine Learning (ICML) IEEE World Congr
       
       <guid>https://spindro.github.io/publications/</guid>
       <description>Journals Machine Un-learning: An Overview of Techniques, Applications, and Future Directions
-S Sai, U Mittal, V Chamola, K Huang, I Spinelli, S Scardapane, Z Tan, A Hussain Cognitive Computation	2024 Machine Un-learning: An Overview of Techniques, Applications, and Future Directions
-Interpreting black-box models: a review on explainable artificial intelligence
+S Sai, U Mittal, V Chamola, K Huang, I Spinelli, S Scardapane, Z Tan, A Hussain Cognitive Computation	2024 Interpreting black-box models: a review on explainable artificial intelligence
 V Hassija, V Chamola, A Mahapatra, A Singal, D Goel, K Huang, S Scardapane, I Spinelli, M Mahmud, A Hussain Cognitive Computation	2023 Drop Edges and Adapt: a Fairness Enforcing Fine-tuning for Graph Neural Networks</description>
     </item>
     
