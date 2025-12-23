@@ -8,12 +8,12 @@
     <language>en</language>
     <copyright>© 2024 by Indro Spinelli. &lt;a href=&#39;https://spindro.github.io/privacy&#39;&gt;Privacy policy&lt;/a&gt;.</copyright><atom:link href="https://spindro.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>News</title>
       <link>https://spindro.github.io/news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/news/</guid>
-      <description></description>
+      <description>Dec 2024: Added a news section to the landing page! Nov 2024: Published new paper on Graph Neural Networks.</description>
     </item>
     
     <item>
