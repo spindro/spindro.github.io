@@ -8,6 +8,15 @@
     <language>en</language>
     <copyright>© 2024 by Indro Spinelli. &lt;a href=&#39;https://spindro.github.io/privacy&#39;&gt;Privacy policy&lt;/a&gt;.</copyright><atom:link href="https://spindro.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title></title>
+      <link>https://spindro.github.io/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://spindro.github.io/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ABOUT</title>
       <link>https://spindro.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -27,8 +36,8 @@ Parco archeologico del Colosseo Weed Classification at the Colosseo
 LoG MeetUp Trento Explainable Graph Neural Networks
 Università della Svizzera Italiana Fair Graph Representation Learning
 Roma Tre University Graph Machine Learning
-Grants 2025-2026 PI of Advaise Academic Entrepreneurship Initiatives of Sapienza University of Rome.
-2025 PI of CAREbot (Comunicazione e Autonomia Robotica per l’assistEnza), Fondazione FAIR for tecnological transfer of High-quality AI prototypes.</description>
+Grants 2025-2026 PI of &amp;ldquo;LLMs Can teach your robot to speak&amp;rdquo; NVIDIA Academic Grant.
+2025-2026 PI of Advaise Academic Entrepreneurship Initiatives of Sapienza University of Rome.</description>
     </item>
     
     <item>
@@ -58,8 +67,8 @@ A Baiocchi, I Spinelli, A Nicolosi, S Scardapane Neural Networks	2025 Machine Un
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://spindro.github.io/teaching/</guid>
-      <description>Courses Fundamentals of Data Science / Foundation of Data Science M.Sc. in Data Science and M.Sc. in Computer Science, Sapienza University of Rome. Course Material Previous Years 24/25 Machine Learning and Artificial Intelligence Unit 1 23/24 B.Sc. in Applied Computer Science and Artificial Intelligence, Sapienza University of Rome. Course Material
-Thesis We are pursuing several projects in the following research areas: Generative Models in Robotics, Explainable Reinforcment Learning, Machine Unlearning, Human Motion Generation.</description>
+      <description>Courses Fundamentals of Data Science / Foundation of Data Science 25/26 M.Sc. in Data Science and M.Sc. in Computer Science, Sapienza University of Rome. Previous Years [24/25] Machine Learning and Artificial Intelligence Unit 1 23/24 B.Sc. in Applied Computer Science and Artificial Intelligence, Sapienza University of Rome.
+Thesis We are pursuing several projects in the following research areas: Generative Models for 3D/4D/Robotics/Computer Use and Trustworthy Machine Learning.</description>
     </item>
     
   </channel>
