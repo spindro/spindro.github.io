@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>INDRO SPINELLI</title>
+    <link>https://spindro.github.io/</link>
+    <description>Recent content on INDRO SPINELLI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 by Indro Spinelli. &lt;a href=&#39;https://spindro.github.io/privacy&#39;&gt;Privacy policy&lt;/a&gt;.</copyright><atom:link href="https://spindro.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>https://spindro.github.io/news/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://spindro.github.io/news/</guid>
+      <description>Nov 2025: Xuanhao Fan started as a phd student under my supervision at Sapienza University of Rome.
+Oct 2025: Human motion Unlearning is accepted at AAAI 2026.
+Sep 2025: Awarded the Nvidia academic grant for the project &amp;ldquo;LLMs Can teach your robot to speak&amp;rdquo;.
+Jul 2025: MonSTeR is accepted at ICCV 2025.</description>
+    </item>
+    
+    <item>
+      <title>ABOUT</title>
+      <link>https://spindro.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://spindro.github.io/about/</guid>
+      <description>Experience 2023-**** Assistant Professor Department of Computer Science, Sapienza University of Rome 2022-2023 Research Fellow INFN, Istituto Nazionale di Fisica Nucleare CINI, Consorzio Interuniversitario Nazionale per l&amp;rsquo;Informatica 2022-2023 Teaching Assistant LUISS, Department of Business and Management 2017-2018 Research Intern Alcor lab, Sapienza University of Rome Education 2019-2022 PhD Information and Communication Technologies Sapienza University of Rome / UiT The Arctic University of Norway 2017-2019 MSc Artificial Intelligence and Robotics Sapienza University of Rome 2014-2017 BSc Computer and System Engineering Sapienza University of Rome CV Here!</description>
+    </item>
+    
+    <item>
+      <title>ACTIVITIES</title>
+      <link>https://spindro.github.io/activities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://spindro.github.io/activities/</guid>
+      <description>Talks FAIR General Conference Building A Unified Model for Motion, Scene, and Text Retrieval
+TUM Workshop on Machine Learning and Medical Robotics Human Motion Generation: A Pathway to Safer, Physical Intelligence
+Parco archeologico del Colosseo Weed Classification at the Colosseo
+LoG MeetUp Trento Explainable Graph Neural Networks
+Università della Svizzera Italiana Fair Graph Representation Learning
+Roma Tre University Graph Machine Learning
+Enel Third Global Data Meetup Graph and geometric deep learning</description>
+    </item>
+    
+    <item>
+      <title>Privacy policy</title>
+      <link>https://spindro.github.io/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://spindro.github.io/privacy/</guid>
+      <description>Links to other websites Other websites referenced here may collect information about you, use cookies, embed additional tracking services from third parties, and record your interaction with that embedded content, including your interaction with the embedded content if you have an account and are signed in to that website.</description>
+    </item>
+    
+    <item>
+      <title>PUBLICATIONS</title>
+      <link>https://spindro.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://spindro.github.io/publications/</guid>
+      <description>Conferences Human Motion Unlearning
+E De Matteis, M Migliarini, A Sampieri, I Spinelli, F Galasso In Proc. of the AAAI Conference on Artificial Intelligence 2026 MonSTeR: a Unified Model for Motion, Scene, Text Retrieval
+L Collorone, M Gioia, M Pappa, P Leoni, G Ficarra, O Litany, I Spinelli, F Galasso In Proc. of the International Conference on Computer Vision (ICCV) 2025 GATSY: Graph Attention Network for Music Artist Similarity
+A G Di Francesco, G Giampietro, I Spinelli, D Comminiello In Proc.</description>
+    </item>
+    
+    <item>
+      <title>TEACHING</title>
+      <link>https://spindro.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://spindro.github.io/teaching/</guid>
+      <description>Courses Fundamentals of Data Science / Foundation of Data Science 25/26 M.Sc. in Data Science and M.Sc. in Computer Science, Sapienza University of Rome. Previous Years [24/25] Machine Learning and Artificial Intelligence Unit 1 23/24 B.Sc. in Applied Computer Science and Artificial Intelligence, Sapienza University of Rome.
+Thesis We are pursuing several projects in the following research areas: Generative Models for 3D/4D/Robotics/Computer Use and Trustworthy Machine Learning.</description>
+    </item>
+    
+  </channel>
+</rss>
